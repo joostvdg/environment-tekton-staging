@@ -20,7 +20,7 @@ expose:
   - --v
   - 4
   config:
-    domain: serverless.34.74.217.197.nip.io
+    domain: serverless.kearos.net
     exposer: Ingress
     http: "true"
 jenkins:
